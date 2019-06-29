@@ -59,3 +59,16 @@ typings/
 
 # next.js build output
 .next
+
+# mochawesome-report
+/mochawesome-report
+
+# public directory
+/public
+
+# package-lock.json
+/package-lock.json
+.idea/
+*.yml
+*.sh
+.vscode/
